@@ -1,0 +1,48 @@
+li {
+  padding: 12px;
+  margin: 5px;
+  margin-left: 0px;
+  width: 450px;
+  background: #faebd7;
+  list-style-type: none;
+}
+
+ul {
+  padding-top: 15px;
+  padding-left: 0px;
+  padding-bottom: 40px;
+}
+
+.display-2 {
+  padding-bottom: 20px;
+}
+
+#burger {
+  width: 390px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 45px;
+}
+
+.change-eaten {
+  float: right;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
